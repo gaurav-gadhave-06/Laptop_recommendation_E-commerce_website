@@ -1,0 +1,9 @@
+pandas 
+numpy
+selenium
+streamlit==1.30.0
+streamlit_chat 
+langchain 
+openai 
+faiss-cpu 
+tiktoken 
